@@ -11,14 +11,14 @@
 - 🎯 I’m passionate about **Software Engineering** and **Cybersecurity**
 - 🌱 Currently learning **Next.js**, **Express**, **MongoDB**
 - 🤝 Open to collaborate on **web** and **cybersecurity projects**
-- 📫 Reach me: [owusuvictor80@gmail.com](mailto:owusuvictor80@gmail.com)  
-&nbsp; &nbsp; &nbsp; &nbsp; [LinkedIn](https://linkedin.com/in/owusuvictor) | [X (Twitter)](https://x.com/owusuvictorjnr)
+- 📫 Reach me:  
+  [📧 Email](mailto:owusuvictor80@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/owusuvictor) | [🐦 Twitter (X)](https://x.com/owusuvictorjnr)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -37,27 +37,40 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [E-Commerce App](https://github.com/owusuvictorjnr/your-project) | Online store with Stripe payments | Next.js, MongoDB, Stripe |
-| [Event Manager](https://github.com/owusuvictorjnr/event-app) | Students can create/view events | React, Firebase, Tailwind |
-| [School Management System](https://github.com/owusuvictorjnr/school-system) | Admin, parent & teacher dashboard | Next.js, MongoDB, Auth.js |
+| [🛒 E-Commerce App](https://github.com/owusuvictorjnr/your-project) | Online store with Stripe payments and dynamic cart | Next.js, MongoDB, Stripe |
+| [📅 Event Manager](https://github.com/owusuvictorjnr/event-app) | Create, join, and manage student events | React, Firebase, Tailwind |
+| [🏫 School Management System](https://github.com/owusuvictorjnr/school-system) | Dashboard for admin, teachers, and parents | Next.js, MongoDB, Auth.js |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owusuvictorjnr&show_icons=true&theme=tokyonight" alt="stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owusuvictorjnr&layout=compact&theme=tokyonight" alt="top langs" width="47%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=owusuvictorjnr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="48%" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=owusuvictorjnr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owusuvictorjnr&layout=compact&theme=tokyonight" alt="Top languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=owusuvictorjnr&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 💬 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/owusuvictor)
-- [Email](mailto:owusuvictor80@gmail.com)
-- [Twitter / X](https://x.com/owusuvictorjnr)
+- 📧 [Email](mailto:owusuvictor80@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/owusuvictor)  
+- 🐦 [Twitter (X)](https://x.com/owusuvictorjnr)
 
 ---
 
-_⭐️ If you like what I do, consider giving my repos a star!_
+_⭐️ If you find my work interesting, please give my repositories a star to support!_
